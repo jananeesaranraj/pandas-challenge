@@ -30,7 +30,7 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 
 **Scores by School_Spending**
 
-
+![Scores_by_School_spending](https://user-images.githubusercontent.com/112193116/194685453-231d90d4-73f5-4d0c-8737-716ae287fd0a.png)
 
 **Scores by School Size**
 
